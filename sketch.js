@@ -57,7 +57,8 @@ function draw() {
 
 
   
-//crie um switch para chamar as funções das folhas e maças e exibi-las na tela a cada 60 quadros
+//crie um if para chamar as funções das folhas e maças e exibi-las na tela a cada 60 quadros
+//crie um if/else dentro desse if para escolher a função a ser chamada com base no valor guardado em select_sprites
 
 //lembrando que o frameCount faz a contagem de quadros
 
